@@ -1,6 +1,8 @@
 # clearChat for QBCore
 
-simple script for clear local chat when type command in chat
+simple script for FiveM QBCore to clear local chat when type command 
+
+Drop the wm-clearChat folder into your [standalone]
 
 command : /clear
 
